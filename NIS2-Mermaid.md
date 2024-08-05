@@ -1,6 +1,7 @@
 # NIS2 Keretrendszer alkalmazása, feladatok, határidők (relatív kezdődátumokkal)
 
 > Az alábbiakban vagy a jogszabályban meghatározott fix kezdődátummal meghatározott, vagy 2024. augusztus 01-i indulás szerint kerülnek kerültek meghatározásra a Gantt diagrammok. Egy másik oldalon [TODO] összesített diagramban található a teljes feladatkör, a jogszabályban meghatározott fix dátumok alapján.
+> A lent található Gantt diagramokat kimásolva (a diagram jobb felső sarkában található copy ikonra kattintva), azok kezdő dátumát módosítva bárki személyre tudja szabni magának az ábrát, mely alapján meg tudja határozni az egyes tevékenységekhez szükséges időkereteket.
 
 1. **Kockázatkezelési keretrendszer alkalmazása**
 

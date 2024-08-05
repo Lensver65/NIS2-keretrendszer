@@ -184,8 +184,6 @@ A 7/2024. MK rendelet alapján a védelmi intézkedések feladatának alábbi al
    * **Feladat:** A védelmi intézkedések tényleges megvalósítása és a tervtől való eltérések alapján a rendszerbiztonsági terv frissítése.
    * **Határidő:** Folyamatosan, a védelmi intézkedések végrehajtása során.
 
-A fentiek alapján az al-feladatok és határidők az alábbi Mermaid formátumú Gantt diagrammal ábrázolhatók:
-
 ```mermaid
 gantt
     title Védelmi Intézkedések Feladatok
@@ -198,3 +196,55 @@ gantt
     Biztonsági követelmények meghatározása :VI5, after VI3, 30d
     Rendszerbiztonsági terv frissítése :until isadded
 ```
+
+## Rendszerbiztonsági terv elkészítése
+
+A 7/2024. MK rendelet alapján a rendszerbiztonsági terv elkészítése során a következő al-feladatok és határidők szerepelnek:
+
+1. **A rendszer felépítésének és elemeinek meghatározása és dokumentálása**
+   * **Feladat:** Meghatározni és dokumentálni az elektronikus információs rendszer (EIR) felépítését és elemeit.
+   * **Határidő:** 2 hét.
+
+2. **Az EIR hatókörének és alapfeladatainak meghatározása és dokumentálása**
+   * **Feladat:** Az EIR hatókörének, alapfeladatainak és biztosítandó szolgáltatásainak dokumentálása az üzleti folyamatok szempontjából.
+   * **Határidő:** Az első feladat befejezését követő 2 hét.
+
+3. **Szerepkörök és felelősségek meghatározása és dokumentálása**
+   * **Feladat:** Azonosítani és dokumentálni az EIR-hez kapcsolódó szerepköröket és felelősségeket betöltő személyeket.
+   * **Határidő:** Az előző feladatok befejezését követő 1 hét.
+
+4. **Az EIR által feldolgozott, tárolt és továbbított információtípusok meghatározása**
+   * **Feladat:** Dokumentálni az EIR által kezelt adatköröket és azok életciklusát.
+   * **Határidő:** Az előző feladat befejezését követő 2 hét.
+
+5. **Az EIR biztonsági osztályának meghatározása és dokumentálása**
+   * **Feladat:** Az EIR biztonsági osztályának meghatározása és alátámasztása megfelelő módon.
+   * **Határidő:** Az információtípusok meghatározását követően 2 hét.
+
+6. **Az EIR működési környezetének és kapcsolódó rendszerelemek meghatározása**
+   * **Feladat:** Az EIR működési környezetének és a kapcsolódó vagy függő rendszerelemek meghatározása és dokumentálása.
+   * **Határidő:** A biztonsági osztály meghatározását követően 1 hónap.
+
+7. **A rendszerre vonatkozó biztonsági követelmények dokumentálása**
+   * **Feladat:** Dokumentálni a rendszerre vonatkozó biztonsági követelményeket, beleértve a szükséges védelmi intézkedéseket.
+   * **Határidő:** Az EIR működési környezetének meghatározását követően 1 hónap.
+
+8. **A rendszerbiztonsági terv jóváhagyása és megismertetése**
+   * **Feladat:** Gondoskodni arról, hogy a rendszerbiztonsági tervet a meghatározott személyek és szerepkörök megismerjék, és a felelős vezetők jóváhagyják a tervet.
+   * **Határidő:** A biztonsági követelmények dokumentálását követően 2 hét.
+
+```mermaid
+gantt
+    title Rendszerbiztonsági Terv Elkészítése
+    dateFormat  YYYY-MM-DD
+    section Feladatok
+    Rendszer felépítésének meghatározása :RBT1, 2024-08-05, 14d
+    EIR hatókörének meghatározása :RBT2, after RBT1, 14d
+    Szerepkörök és felelősségek meghatározása :RBT3, after RBT2, 7n
+    Információtípusok meghatározása :RBT4, after RBT3, 14d
+    Biztonsági osztály meghatározása :RBT5, after RBT4, 14d
+    Működési környezet meghatározása :RBT6, after RBT5, 30d
+    Biztonsági követelmények dokumentálása :RBT7, after RBT6, 30d
+    Rendszerbiztonsági terv jóváhagyása :RBT8, after RBT7, 14d
+```
+

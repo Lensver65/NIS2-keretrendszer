@@ -53,7 +53,7 @@ gantt
     title NIS2 megfelelés Gantt diagram
     dateFormat  YYYY-MM-DD
     section Feladatok
-    Kockázatkezelési keretrendszer alkalmazása :T1, 2024-08-01, 90d
+    Kockázatkezelési keretrendszer alkalmazása :T1, 2024-06-25, 90d
     Biztonsági osztályba sorolás :T2, after T1, 30d
     Védelmi intézkedések beazonosítása :T3, after T2, 30d
     Rendszerbiztonsági terv elkészítése :T4, after T3, 30d

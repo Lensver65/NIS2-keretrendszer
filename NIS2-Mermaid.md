@@ -195,6 +195,6 @@ gantt
     Védelmi intézkedések fokozatos bevezetése :VI2, after VI1, 60d
     Dokumentáció és eltérések kezelése :VI3, after VI2, 30d
     Helyettesítő védelmi intézkedések alkalmazása :until isadded
-    Biztonsági követelmények meghatározása :VI5, after VI3, 30
+    Biztonsági követelmények meghatározása :VI5, after VI3, 30d
     Rendszerbiztonsági terv frissítése :until isadded
 ```

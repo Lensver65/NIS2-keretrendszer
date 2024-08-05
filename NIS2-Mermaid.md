@@ -27,7 +27,7 @@
 * **Határidő:** A védelmi intézkedések azonosítását követően 1 hónap
 * **Felelős:** Biztonsági csapat
 
-5. ***Védelmi intézkedések végrehajtása**
+5. **Védelmi intézkedések végrehajtása**
 
 * **Feladat:** A rendszerbiztonsági tervben dokumentált intézkedések végrehajtása
 * **Határidő:** A rendszerbiztonsági terv elkészítését követően 2 hónap

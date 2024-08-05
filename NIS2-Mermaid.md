@@ -251,3 +251,44 @@ gantt
     Rendszerbiztonsági terv jóváhagyása :RBT8, after RBT7, 14d
 ```
 
+## Védelmi intézkedések végrehajtása
+
+A 7/2024. MK rendelet alapján a védelmi intézkedések végrehajtásához kapcsolódó al-feladatok és határidők a következők:
+
+1. **Védelmi intézkedések azonosítása**
+   - **Feladat:** Az elektronikus információs rendszer azon komponenseinek meghatározása, amelyek a védelmi intézkedések által megcélzott biztonsági képességet biztosítják vagy támogatják.
+   - **Határidő:** A rendszerbiztonsági terv elkészítése után azonnal kezdődő 2 hét.
+
+2. **Kockázatelemzés és intézkedési terv készítése**
+   - **Feladat:** Kockázatelemzés végrehajtása, majd az eredmények alapján az intézkedési terv elkészítése.
+   - **Határidő:** Az azonosítás után 1 hónap.
+
+3. **Védelmi intézkedések bevezetésének megtervezése**
+   - **Feladat:** A védelmi intézkedések bevezetésének részletes tervezése, beleértve a szükséges erőforrásokat és ütemtervet.
+   - **Határidő:** Az intézkedési terv elkészítése után 1 hónap.
+
+4. **Védelmi intézkedések bevezetése**
+   - **Feladat:** A tervezett védelmi intézkedések végrehajtása a meghatározott ütemterv szerint.
+   - **Határidő:** A bevezetés megtervezése után 2 hónap.
+
+5. **Dokumentáció és jelentéstétel**
+   - **Feladat:** A végrehajtott védelmi intézkedések dokumentálása és jelentések készítése az eredményekről.
+   - **Határidő:** A végrehajtás után folyamatosan, a feladatok befejezése után 1 hónap.
+
+6. **Értékelés és visszacsatolás**
+   * **Feladat:** A végrehajtott védelmi intézkedések értékelése és a visszacsatolás beépítése a rendszerbiztonsági tervbe.
+   * **Határidő:** A dokumentáció befejezését követően 1 hónap.
+
+```mermaid
+gantt
+    title Védelmi Intézkedések Végrehajtása
+    dateFormat  YYYY-MM-DD
+    section Feladatok
+    Védelmi intézkedések azonosítása :VV1, 2024-08-05, 14d
+    Kockázatelemzés és intézkedési terv készítése :VV2, after VV1, 30d
+    Védelmi intézkedések bevezetésének megtervezése :VV3, after VV2, 30d
+    Védelmi intézkedések bevezetése :VV4, after VV3, 60d
+    Dokumentáció és jelentéstétel :VV5, after VV4, 30d
+    Értékelés és visszacsatolás :VV6, after VV5, 30d
+```
+

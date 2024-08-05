@@ -380,3 +380,45 @@ gantt
     Üzembe helyezés :RH6, after RH5, 7d
     Folyamatos monitorozás és visszacsatolás :RH7, after RH6, 1d
 ```
+
+## Folyamatos felügyelet és frissítések
+
+A 7/2024. MK rendelet alapján a folyamatos felügyelet és frissítések alatti al-feladatok és határidők a következők:
+
+1. **Folyamatos monitorozás és elemzés**
+   - **Feladat:** Az elektronikus információs rendszer (EIR) folyamatos monitorozása, beleértve a biztonsági események valós idejű elemzését automatizált eszközök segítségével.
+   - **Határidő:** Folyamatos.
+
+2. **Hibajavítás és frissítések telepítése**
+   - **Feladat:** A hibajavítások és biztonsági frissítések rendszeres telepítése, beleértve a szoftver- és firmware-frissítéseket.
+   - **Határidő:** Folyamatos, a frissítések megjelenését követően azonnal.
+
+3. **Rendszeres sérülékenység vizsgálat**
+   - **Feladat:** Rendszeres sérülékenységvizsgálatok végrehajtása, beleértve az automatizált sérülékenységelemzést és a kockázatok értékelését.
+   - **Határidő:** Folyamatos, meghatározott időközönként.
+
+4. **Adatbiztonság és integritás ellenőrzése**
+   - **Feladat:** Az EIR által kezelt adatok biztonságának és integritásának rendszeres ellenőrzése.
+   - **Határidő:** Folyamatos.
+
+5. **Biztonsági mentések és visszaállítások**
+   - **Feladat:** Rendszeres biztonsági mentések készítése és a visszaállítási eljárások tesztelése.
+   - **Határidő:** Folyamatos, meghatározott időközönként.
+
+6. **Kockázatmenedzsment folyamatok felülvizsgálata**
+   - **Feladat:** A kockázatmenedzsment folyamatok és eljárások rendszeres felülvizsgálata és frissítése a változó körülményeknek megfelelően.
+   - **Határidő:** Évente legalább egyszer.
+
+
+```mermaid
+gantt
+    title Folyamatos Felügyelet és Frissítések
+    dateFormat  YYYY-MM-DD
+    section Feladatok
+    Folyamatos monitorozás és elemzés :milestone, 2025-06-25
+    Hibajavítás és frissítések telepítése :milestone, 2025-06-2
+    Rendszeres sérülékenység vizsgálat :milestone, 2025-06-2
+    Adatbiztonság és integritás ellenőrzése :milestone, 2025-06-2
+    Biztonsági mentések és visszaállítások :milestone, 2025-06-2
+    Kockázatmenedzsment folyamatok felülvizsgálata :milestone, 2025-06-2
+```

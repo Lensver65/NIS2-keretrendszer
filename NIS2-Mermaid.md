@@ -155,3 +155,46 @@ gantt
     Védelmi intézkedések beazonosítása :BO5, after BO4, 14d
     Rendszerbiztonsági terv elkészítése és jóváhagyása :BO6, after BO5, 30d
 ```
+
+## Védelmi intézkedések
+
+A 7/2024. MK rendelet alapján a védelmi intézkedések feladatának alábbi al-feladatai és határidői a következők:
+
+1. **Védelmi intézkedések azonosítása**
+   * **Feladat:** Az elektronikus információs rendszer azon komponenseinek meghatározása, amelyek a védelmi intézkedések által megcélzott biztonsági képességet biztosítják vagy támogatják.
+   * **Határidő:** A kockázatmenedzsment keretrendszer felállítását követően 1 hónap.
+
+2. **Védelmi intézkedések fokozatos bevezetése**
+   * **Feladat:** A védelmi intézkedések fokozatos bevezetése a védendő elektronikus információs rendszerek biztonsági osztályozása alapján.
+   * **Határidő:** Az intézkedések azonosítását követően 2 hónap.
+
+3. **Dokumentáció és eltérések kezelése**
+   * **Feladat:** A védelmi intézkedések dokumentálása, beleértve az egyedi eltérések okait és mértékét, valamint azok megfelelőségének és hatékonyságának felülvizsgálata.
+   * **Határidő:** A védelmi intézkedések fokozatos bevezetését követően 1 hónap.
+
+4. **Helyettesítő védelmi intézkedések alkalmazása**
+   * **Feladat:** Azon esetekben, amikor az adott biztonsági osztályhoz tartozó védelmi intézkedés nem alkalmazható, egyenértékű vagy összemérhető védelmet nyújtó helyettesítő intézkedések alkalmazása.
+   * **Határidő:** Folyamatosan, a helyettesítési igény felmerülésekor.
+
+5. **Biztonsági követelmények meghatározása**
+   * **Feladat:** Az elektronikus információs rendszerekre értelmezendő és alkalmazandó biztonsági követelmények megállapítása, a kockázatelemzés alapján testre szabva.
+   * **Határidő:** A dokumentáció és eltérések kezelését követően 1 hónap.
+
+6. **Rendszerbiztonsági terv frissítése**
+   * **Feladat:** A védelmi intézkedések tényleges megvalósítása és a tervtől való eltérések alapján a rendszerbiztonsági terv frissítése.
+   * **Határidő:** Folyamatosan, a védelmi intézkedések végrehajtása során.
+
+A fentiek alapján az al-feladatok és határidők az alábbi Mermaid formátumú Gantt diagrammal ábrázolhatók:
+
+```mermaid
+gantt
+    title Védelmi Intézkedések Feladatok
+    dateFormat  YYYY-MM-DD
+    section Feladatok
+    Védelmi intézkedések azonosítása :VI1, 2024-08-05, 30d
+    Védelmi intézkedések fokozatos bevezetése :VI2, after VI1, 60d
+    Dokumentáció és eltérések kezelése :VI3, after VI2, 30d
+    Helyettesítő védelmi intézkedések alkalmazása :VI4, until isadded
+    Biztonsági követelmények meghatározása :VI5, after VI3, 30
+    Rendszerbiztonsági terv frissítése :VI6, until isadded
+```

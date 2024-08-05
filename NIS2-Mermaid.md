@@ -148,10 +148,10 @@ gantt
     title Biztonsági Osztályba Sorolás Feladatok
     dateFormat  YYYY-MM-DD
     section Feladatok
-    Kockázatmenedzsment keretrendszer felállítása :2024-08-05, 2024-09-05
-    Hatáselemzés elvégzése :2024-09-06, 2024-10-06
-    Biztonsági osztály meghatározása és dokumentálása :2024-10-07, 2024-10-21
-    Biztonsági osztályba sorolási döntés jóváhagyása :2024-10-22, 2024-10-28
-    Védelmi intézkedések beazonosítása :2024-10-29, 2024-11-12
-    Rendszerbiztonsági terv elkészítése és jóváhagyása :2024-11-13, 2024-12-13
+    Kockázatmenedzsment keretrendszer felállítása :BO1, 2024-08-05, 30d
+    Hatáselemzés elvégzése :BO2, after BO1, 30d
+    Biztonsági osztály meghatározása és dokumentálása :BO3, after BO2, 14d
+    Biztonsági osztályba sorolási döntés jóváhagyása :BO4, after BO3, 7d
+    Védelmi intézkedések beazonosítása :BO5, after BO4, 14d
+    Rendszerbiztonsági terv elkészítése és jóváhagyása :BO6, after BO5, 30d
 ```

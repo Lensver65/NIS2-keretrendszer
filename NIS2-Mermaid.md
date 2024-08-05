@@ -378,5 +378,5 @@ gantt
     Visszajelzések gyűjtése és értékelése :RH4, after RH3, 7d
     Végleges rendszerbiztonsági terv elkészítése :RH5, after RH4, 14d
     Üzembe helyezés :RH6, after RH5, 7d
-    Folyamatos monitorozás és visszacsatolás :RH6, later RH5
+    Folyamatos monitorozás és visszacsatolás :RH6, after RH5, 1d
 ```

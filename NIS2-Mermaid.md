@@ -4,49 +4,49 @@
 
 * **Feladat:** Felkészülés a keretrendszer alkalmazására
 * **Határidő:** A jogszabály hatályba lépésétől számított 3 hónap
-* **Felelős:**: Szervezet vezetője
+* **Felelős:** Szervezet vezetője
 
 2. **Biztonsági osztályba sorolás**
 
 * **Feladat:** Az elektronikus információs rendszerek biztonsági osztályba sorolása
 * **Határidő:** A kockázatkezelési keretrendszer felállítását követően 1 hónap
-* **Felelős:**: Kijelölt biztonsági szakértő
+* **Felelős:** Kijelölt biztonsági szakértő
 
 3. **Védelmi intézkedések beazonosítása**
 
 * **Feladat:** A biztonsági osztályhoz tartozó védelmi intézkedések azonosítása
 * **Határidő:** A biztonsági osztályba sorolást követően 1 hónap
-* **Felelős:**: Biztonsági csapat
+* **Felelős:** Biztonsági csapat
 
 4. **Rendszerbiztonsági terv elkészítése**
 
 * **Feladat:** A kiválasztott védelmi intézkedések dokumentálása a rendszerbiztonsági tervben
 * **Határidő:** A védelmi intézkedések azonosítását követően 1 hónap
-* **Felelős:**: Biztonsági csapat
+* **Felelős:** Biztonsági csapat
 
 5. ***Védelmi intézkedések végrehajtása**
 
 * **Feladat:** A rendszerbiztonsági tervben dokumentált intézkedések végrehajtása
 * **Határidő:** A rendszerbiztonsági terv elkészítését követően 2 hónap
-* **Felelős:**: IT és biztonsági csapat
+* **Felelős:** IT és biztonsági csapat
 
 6. **Védelmi intézkedések értékelése**
 
 * **Feladat:** A megvalósított védelmi intézkedések értékelése
 * **Határidő:** A végrehajtás befejezését követően 1 hónap
-* **Felelős:**: Kijelölt biztonsági szakértők
+* **Felelős:** Kijelölt biztonsági szakértők
 
 7. **Rendszer használatbavétele**
 
 * **Feladat:** Döntés a rendszer használatbavételéről vagy folytatásáról
 * **Határidő:** A védelmi intézkedések értékelését követően 1 hónap
-* **Felelős:**: Szervezet vezetője
+* **Felelős:** Szervezet vezetője
 
 8. **Folyamatos felügyelet és frissítések**
 
 * **Feladat:** A védelmi intézkedések folyamatos felügyelete és a szükséges frissítések elvégzése
 * **Határidő:** Folyamatosan, évente legalább egyszer
-* **Felelős:**: Biztonsági csapat
+* **Felelős:** Biztonsági csapat
 
 ```mermaid
 gantt

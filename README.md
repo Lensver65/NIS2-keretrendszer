@@ -1,5 +1,7 @@
 # NIS2-keretrendszer
-Gantt diagram a NIS2 követelményeknek való megfelelés érdekében teendő lépésekről
+Gantt diagram a NIS2 követelményeknek való megfelelés érdekében teendő lépésekről.
+## NIS2 megfelelés feladatai Gantt diagram [link](https://github.com/Lensver65/NIS2-keretrendszer/blob/main/NIS2%20Gantt.md)
+## NIS2 Keretrendszer alkalmazása, feladatok, határidők (relatív kezdődátumokkal) [link](https://github.com/Lensver65/NIS2-keretrendszer/blob/main/NIS2-Mermaid.md)
 
 ## Jogszabályi háttér
 

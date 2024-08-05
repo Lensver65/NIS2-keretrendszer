@@ -292,3 +292,44 @@ gantt
     Értékelés és visszacsatolás :VV6, after VV5, 30d
 ```
 
+## Védelmi intézkedések értékelése
+
+A 7/2024. MK rendelet alapján a védelmi intézkedések értékelése során az alábbi al-feladatok és határidők szerepelnek:
+
+1. **Értékelési terv kidolgozása**
+   - **Feladat:** Az értékelési terv kidolgozása, amely leírja az értékelés hatókörét, beleértve az értékelendő védelmi intézkedéseket, azok kiterjesztését és továbbfejlesztését.
+   - **Határidő:** A védelmi intézkedések végrehajtásának befejezését követően 2 hét.
+
+2. **Értékelő csoport kiválasztása**
+   - **Feladat:** Az értékelési tervnek megfelelő értékelő csoport vagy független értékelők kiválasztása.
+   - **Határidő:** Az értékelési terv kidolgozását követően 1 hét.
+
+3. **Biztonsági értékelés végrehajtása**
+   - **Feladat:** A meghatározott biztonsági értékelési módszerek és eszközök alkalmazása, beleértve a mélységi monitorozást, automatizált biztonsági teszteket, sérülékenységszkennelést, rosszhiszemű felhasználói teszteket, stb.
+   - **Határidő:** Az értékelő csoport kiválasztását követően 1 hónap.
+
+4. **Értékelési eredmények dokumentálása**
+   - **Feladat:** Az értékelési eredmények dokumentálása és jelentés készítése, amely összefoglalja az értékelés eredményeit, beleértve az azonosított kockázatokat és javasolt intézkedéseket.
+   - **Határidő:** A biztonsági értékelés végrehajtását követően 2 hét.
+
+5. **Értékelési eredmények felülvizsgálata és jóváhagyása**
+   - **Feladat:** Az értékelési eredmények felülvizsgálata és jóváhagyása a szervezet vezetői által.
+   - **Határidő:** Az értékelési eredmények dokumentálását követően 1 hét.
+
+6. **Visszacsatolás és rendszerbiztonsági terv frissítése**
+   * **Feladat:** Az értékelési eredmények alapján szükséges visszacsatolás biztosítása és a rendszerbiztonsági terv frissítése.
+   * **Határidő:** Az értékelési eredmények jóváhagyását követően 2 hét.
+
+
+```mermaid
+gantt
+    title Védelmi Intézkedések Értékelése
+    dateFormat  YYYY-MM-DD
+    section Feladatok
+    Értékelési terv kidolgozása :VE1, 2025-02-01, 14d
+    Értékelő csoport kiválasztása :VE2, after VE1, 7d
+    Biztonsági értékelés végrehajtása :VE3, after VE2, 30d
+    Értékelési eredmények dokumentálása :VE4, after VE3, 14d
+    Értékelési eredmények felülvizsgálata és jóváhagyása :VE5, after VE4, 7d
+    Visszacsatolás és rendszerbiztonsági terv frissítése :VE6, after VE5, 14d
+```

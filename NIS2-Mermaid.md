@@ -53,11 +53,11 @@ gantt
     dateFormat  YYYY-MM-DD
     section Feladatok
     Szerepkörök, felelősségek meghatározása :St1, 2024-08-05, 14d
-    Kockázatmenedzsment stratégia kidolgozása :St2, After St1, 14d
-    Biztonságfelügyeleti stratégia kidolgozása :St3, After St2, 14d
-    Üzleti célok és folyamatok dokumentálása :St4, After St3, 30d
-    Rendszer határainak meghatározása :St5, After St4, 14d
-    Felelős személyek kijelölése :St6, After St5, 7d
+    Kockázatmenedzsment stratégia kidolgozása :St2, after St1, 14d
+    Biztonságfelügyeleti stratégia kidolgozása :St3, after St2, 14d
+    Üzleti célok és folyamatok dokumentálása :St4, after St3, 30d
+    Rendszer határainak meghatározása :St5, after St4, 14d
+    Felelős személyek kijelölése :St6, after St5, 7d
 ```
 
 ## Biztonsági osztályba sorolás:

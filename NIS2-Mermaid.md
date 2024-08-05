@@ -3,14 +3,14 @@ gantt
     title NIS2 megfelelés Gantt diagram
     dateFormat  YYYY-MM-DD
     section Feladatok
-    Kockázatkezelési keretrendszer alkalmazása :2024-08-01, 2024-10-31
-    Biztonsági osztályba sorolás :2024-11-01, 2024-11-30
-    Védelmi intézkedések beazonosítása :2024-12-01, 2024-12-31
-    Rendszerbiztonsági terv elkészítése :2025-01-01, 2025-01-31
-    Védelmi intézkedések végrehajtása :2025-02-01, 2025-03-31
-    Védelmi intézkedések értékelése :2025-04-01, 2025-04-30
-    Rendszer használatbavétele :2025-05-01, 2025-05-31
-    Folyamatos felügyelet és frissítések :2025-06-01, 2025-12-31
+    Kockázatkezelési keretrendszer alkalmazása :T1, 2024-08-01, 90d
+    Biztonsági osztályba sorolás :T2, after T1, 30d
+    Védelmi intézkedések beazonosítása :T3, after T2, 30d
+    Rendszerbiztonsági terv elkészítése :T4, after T3, 30d
+    Védelmi intézkedések végrehajtása :T5, after T4, 60d
+    Védelmi intézkedések értékelése :T6, after T5, 30d
+    Rendszer használatbavétele :T7, after T6, 30d
+    Folyamatos felügyelet és frissítések :T8, after T7, 7d
 ```
 
 ## Kockázatmenedzsment keretrendszer felállítása és dokumentálása
@@ -52,12 +52,12 @@ gantt
     title Kockázatmenedzsment Keretrendszer Felállítása
     dateFormat  YYYY-MM-DD
     section Feladatok
-    Szerepkörök, felelősségek meghatározása :St1, 2024-08-05, 14d
-    Kockázatmenedzsment stratégia kidolgozása :St2, after St1, 14d
-    Biztonságfelügyeleti stratégia kidolgozása :St3, after St2, 14d
-    Üzleti célok és folyamatok dokumentálása :St4, after St3, 30d
-    Rendszer határainak meghatározása :St5, after St4, 14d
-    Felelős személyek kijelölése :St6, after St5, 7d
+    Szerepkörök, felelősségek meghatározása :KK1, 2024-08-05, 14d
+    Kockázatmenedzsment stratégia kidolgozása :KK2, after KK1, 14d
+    Biztonságfelügyeleti stratégia kidolgozása :KK3, after KK2, 14d
+    Üzleti célok és folyamatok dokumentálása :KK4, after KK3, 30d
+    Rendszer határainak meghatározása :KK5, after KK4, 14d
+    Felelős személyek kijelölése :KK6, after KK5, 7d
 ```
 
 ## Biztonsági osztályba sorolás:

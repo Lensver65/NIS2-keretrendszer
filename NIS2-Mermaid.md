@@ -333,3 +333,50 @@ gantt
     Értékelési eredmények felülvizsgálata és jóváhagyása :VE5, after VE4, 7d
     Visszacsatolás és rendszerbiztonsági terv frissítése :VE6, after VE5, 14d
 ```
+
+## Rendszer használatbavétele
+
+A 7/2024. MK rendelet alapján a rendszer használatbavételéhez kapcsolódó al-feladatok és határidők a következők:
+
+1. **Használatbavételi terv kidolgozása**
+   - **Feladat:** Kidolgozni egy részletes tervet a rendszer használatbavételére, beleértve az összes szükséges lépést és felelősségeket.
+   - **Határidő:** A védelmi intézkedések értékelését követően 2 hét.
+
+2. **Jóváhagyások beszerzése**
+   - **Feladat:** A használatbavételi terv jóváhagyása a szervezet vezetése és a biztonsági szakértők által.
+   - **Határidő:** A terv elkészítését követően 1 hét.
+
+3. **Preprodukciós tesztek végrehajtása**
+   - **Feladat:** A rendszer preprodukciós környezetben történő tesztelése, hogy biztosítsák a rendszer megfelelőségét és a védelmi intézkedések hatékonyságát.
+   - **Határidő:** A jóváhagyások megszerzését követően 3 hét .
+
+4. **Visszajelzések gyűjtése és értékelése**
+   - **Feladat:** A tesztek eredményeinek összegyűjtése és értékelése, valamint az esetleges szükséges módosítások bevezetése.
+   - **Határidő:** A tesztelést követően 1 hét.
+
+5. **Végleges rendszerbiztonsági terv elkészítése**
+   - **Feladat:** A végleges rendszerbiztonsági terv elkészítése, amely tartalmazza az összes jóváhagyott és végrehajtott védelmi intézkedést.
+   - **Határidő:** A visszajelzések értékelését követően 2 hét.
+
+6. **Üzembe helyezés**
+   - **Feladat:** A rendszer éles üzembe helyezése a végleges terv alapján.
+   - **Határidő:** A végleges terv elkészítését követően 1 hét.
+
+7. **Folyamatos monitorozás és visszacsatolás**
+   - **Feladat:** A rendszer folyamatos monitorozása és az esetleges visszacsatolások alapján történő folyamatos javítás.
+   - **Határidő:** Folyamatosan, az üzembe helyezést követően.
+
+
+```mermaid
+gantt
+    title Rendszer Használatbavétele
+    dateFormat  YYYY-MM-DD
+    section Feladatok
+    Használatbavételi terv kidolgozása :RH1, 2025-04-01, 14d
+    Jóváhagyások beszerzése :RH2, after RH1, 7d
+    Preprodukciós tesztek végrehajtása :RH3, after RH2, 21d
+    Visszajelzések gyűjtése és értékelése :RH4, after RH3, 7d
+    Végleges rendszerbiztonsági terv elkészítése :RH5, after RH4, 14d
+    Üzembe helyezés :RH6, after RH5, 7d
+    Folyamatos monitorozás és visszacsatolás :RH6, after RH5
+```

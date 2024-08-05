@@ -415,10 +415,10 @@ gantt
     title Folyamatos Felügyelet és Frissítések
     dateFormat  YYYY-MM-DD
     section Feladatok
-    Folyamatos monitorozás és elemzés :milestone, 2025-06-25
-    Hibajavítás és frissítések telepítése :milestone, 2025-06-2
-    Rendszeres sérülékenység vizsgálat :milestone, 2025-06-2
-    Adatbiztonság és integritás ellenőrzése :milestone, 2025-06-2
-    Biztonsági mentések és visszaállítások :milestone, 2025-06-2
-    Kockázatmenedzsment folyamatok felülvizsgálata :milestone, 2025-06-2
+    Folyamatos monitorozás és elemzés :milestone, 2025-06-25, 7d
+    Hibajavítás és frissítések telepítése :milestone, 2025-06-2, 7d
+    Rendszeres sérülékenység vizsgálat :milestone, 2025-06-2, 7d
+    Adatbiztonság és integritás ellenőrzése :milestone, 2025-06-2, 7d
+    Biztonsági mentések és visszaállítások :milestone, 2025-06-2, 7d
+    Kockázatmenedzsment folyamatok felülvizsgálata :milestone, 2025-06-2, 7d
 ```

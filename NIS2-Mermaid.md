@@ -52,12 +52,12 @@ gantt
     title Kockázatmenedzsment Keretrendszer Felállítása
     dateFormat  YYYY-MM-DD
     section Feladatok
-    Szerepkörök, felelősségek meghatározása :2024-08-05, 2024-08-19
-    Kockázatmenedzsment stratégia kidolgozása :2024-08-20, 2024-09-03
-    Biztonságfelügyeleti stratégia kidolgozása :2024-09-04, 2024-09-18
-    Üzleti célok és folyamatok dokumentálása :2024-09-19, 2024-10-19
-    Rendszer határainak meghatározása :2024-10-20, 2024-11-03
-    Felelős személyek kijelölése :2024-11-04, 2024-11-11
+    Szerepkörök, felelősségek meghatározása :St1, 2024-08-05, 14d
+    Kockázatmenedzsment stratégia kidolgozása :St2, After St1, 14d
+    Biztonságfelügyeleti stratégia kidolgozása :St3, After St2, 14d
+    Üzleti célok és folyamatok dokumentálása :St4, After St3, 30d
+    Rendszer határainak meghatározása :St5, After St4, 14d
+    Felelős személyek kijelölése :St6, After St5, 7d
 ```
 
 ## Biztonsági osztályba sorolás:

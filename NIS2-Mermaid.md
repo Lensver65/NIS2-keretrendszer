@@ -1,1 +1,14 @@
-[![](https://mermaid.ink/img/pako:eNqFksGK2zAQhl9F6ByD7SSl-FhCYCnbQ7cUCr5M4omjSpYWabwQLfswOfrQN-jNL9aJ7Xh9WarTjDT_N7-GeZVHV6EsZA2WqLSCDykyKL49POXioXk22KAlIOWs-AFBh7GoAsK98w2QEL_4JI-PyW43vgU8DuV7NMB1To_XX91R99cIpDGi6bughEaP5NFWIaIXYDSYBmJ_DSCKPM03Sfo5SbOVGOIsTdbZiPqiIjkb-muthAuR-qu5HEAE551h9STOsoU4S9bpKP7ZdxWaRgllqe-ixoq9oBYHhOisC_0fWjjI8gUknx18n0wfFk4I_YtAoxkXbxCmDpAtE-6QIb5DPnLy0ne1xzP8fjfCunzBWP-X0Xeecz0MeraxWSA280DufxFnCNHyLIEOwB4IzazcLpTbufnemQvwDrggTtzpb31hCXFvzr0KYZqCvlM-vVOmWcqVbJDXSFW8hK83ainpzDtXyoLDCk_QGiplad-4FFpyTxd7lAX5FlfSu7Y-y-IEJnDWPt-2cqeg9tBMt2__AHXm_Cg?type=png)](https://mermaid.live/edit#pako:eNqFksGK2zAQhl9F6ByD7SSl-FhCYCnbQ7cUCr5M4omjSpYWabwQLfswOfrQN-jNL9aJ7Xh9WarTjDT_N7-GeZVHV6EsZA2WqLSCDykyKL49POXioXk22KAlIOWs-AFBh7GoAsK98w2QEL_4JI-PyW43vgU8DuV7NMB1To_XX91R99cIpDGi6bughEaP5NFWIaIXYDSYBmJ_DSCKPM03Sfo5SbOVGOIsTdbZiPqiIjkb-muthAuR-qu5HEAE551h9STOsoU4S9bpKP7ZdxWaRgllqe-ixoq9oBYHhOisC_0fWjjI8gUknx18n0wfFk4I_YtAoxkXbxCmDpAtE-6QIb5DPnLy0ne1xzP8fjfCunzBWP-X0Xeecz0MeraxWSA280DufxFnCNHyLIEOwB4IzazcLpTbufnemQvwDrggTtzpb31hCXFvzr0KYZqCvlM-vVOmWcqVbJDXSFW8hK83ainpzDtXyoLDCk_QGiplad-4FFpyTxd7lAX5FlfSu7Y-y-IEJnDWPt-2cqeg9tBMt2__AHXm_Cg)
+```mermaid
+gantt
+    title NIS2 Implementation Tasks
+    dateFormat  YYYY-MM-DD
+    section Feladatok
+    Kockázatkezelési keretrendszer alkalmazása :2024-08-01, 2024-10-31
+    Biztonsági osztályba sorolás :2024-11-01, 2024-11-30
+    Védelmi intézkedések beazonosítása :2024-12-01, 2024-12-31
+    Rendszerbiztonsági terv elkészítése :2025-01-01, 2025-01-31
+    Védelmi intézkedések végrehajtása :2025-02-01, 2025-03-31
+    Védelmi intézkedések értékelése :2025-04-01, 2025-04-30
+    Rendszer használatbavétele :2025-05-01, 2025-05-31
+    Folyamatos felügyelet és frissítések :2025-06-01, 2025-12-31
+```

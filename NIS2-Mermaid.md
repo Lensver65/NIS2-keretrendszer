@@ -3,49 +3,49 @@
 > Az alábbiakban vagy a jogszabályban meghatározott fix kezdődátummal meghatározott, vagy 2024. augusztus 01-i indulás szerint kerülnek kerültek meghatározásra a Gantt diagrammok. [Egy másik oldalon összesített diagramban](https://github.com/Lensver65/NIS2-keretrendszer/blob/main/NIS2%20Gantt.md) található a teljes feladatkör, a jogszabályban meghatározott fix dátumok alapján.
 > A lent található Gantt diagramokat kimásolva (a diagram jobb felső sarkában található copy ikonra kattintva), azok kezdő dátumát módosítva bárki személyre tudja szabni magának az ábrát, mely alapján meg tudja határozni az egyes tevékenységekhez szükséges időkereteket.
 
-1. **Kockázatkezelési keretrendszer alkalmazása**
+1. **[Kockázatkezelési keretrendszer alkalmazása](https://github.com/Lensver65/NIS2-keretrendszer/blob/main/NIS2-Mermaid.md#kock%C3%A1zatmenedzsment-keretrendszer-fel%C3%A1ll%C3%ADt%C3%A1sa-%C3%A9s-dokument%C3%A1l%C3%A1sa)**
 
 * **Feladat:** Felkészülés a keretrendszer alkalmazására
 * **Határidő:** A jogszabály hatályba lépésétől számított 3 hónap
 * **Felelős:** Szervezet vezetője
 
-2. **Biztonsági osztályba sorolás**
+2. **[Biztonsági osztályba sorolás](https://github.com/Lensver65/NIS2-keretrendszer/blob/main/NIS2-Mermaid.md#biztons%C3%A1gi-oszt%C3%A1lyba-sorol%C3%A1s)**
 
 * **Feladat:** Az elektronikus információs rendszerek biztonsági osztályba sorolása
 * **Határidő:** A kockázatkezelési keretrendszer felállítását követően 1 hónap
 * **Felelős:** Kijelölt biztonsági szakértő
 
-3. **Védelmi intézkedések beazonosítása**
+3. **[Védelmi intézkedések beazonosítása](https://github.com/Lensver65/NIS2-keretrendszer/blob/main/NIS2-Mermaid.md#v%C3%A9delmi-int%C3%A9zked%C3%A9sek)**
 
 * **Feladat:** A biztonsági osztályhoz tartozó védelmi intézkedések azonosítása
 * **Határidő:** A biztonsági osztályba sorolást követően 1 hónap
 * **Felelős:** Biztonsági csapat
 
-4. **Rendszerbiztonsági terv elkészítése**
+4. **[Rendszerbiztonsági terv elkészítése](https://github.com/Lensver65/NIS2-keretrendszer/blob/main/NIS2-Mermaid.md#rendszerbiztons%C3%A1gi-terv-elk%C3%A9sz%C3%ADt%C3%A9se)**
 
 * **Feladat:** A kiválasztott védelmi intézkedések dokumentálása a rendszerbiztonsági tervben
 * **Határidő:** A védelmi intézkedések azonosítását követően 1 hónap
 * **Felelős:** Biztonsági csapat
 
-5. **Védelmi intézkedések végrehajtása**
+5. **[Védelmi intézkedések végrehajtása](https://github.com/Lensver65/NIS2-keretrendszer/blob/main/NIS2-Mermaid.md#v%C3%A9delmi-int%C3%A9zked%C3%A9sek-v%C3%A9grehajt%C3%A1sa)**
 
 * **Feladat:** A rendszerbiztonsági tervben dokumentált intézkedések végrehajtása
 * **Határidő:** A rendszerbiztonsági terv elkészítését követően 2 hónap
 * **Felelős:** IT és biztonsági csapat
 
-6. **Védelmi intézkedések értékelése**
+6. **[Védelmi intézkedések értékelése](https://github.com/Lensver65/NIS2-keretrendszer/blob/main/NIS2-Mermaid.md#v%C3%A9delmi-int%C3%A9zked%C3%A9sek-%C3%A9rt%C3%A9kel%C3%A9se)**
 
 * **Feladat:** A megvalósított védelmi intézkedések értékelése
 * **Határidő:** A végrehajtás befejezését követően 1 hónap
 * **Felelős:** Kijelölt biztonsági szakértők
 
-7. **Rendszer használatbavétele**
+7. **[Rendszer használatbavétele](https://github.com/Lensver65/NIS2-keretrendszer/blob/main/NIS2-Mermaid.md#rendszer-haszn%C3%A1latbav%C3%A9tele)**
 
 * **Feladat:** Döntés a rendszer használatbavételéről vagy folytatásáról
 * **Határidő:** A védelmi intézkedések értékelését követően 1 hónap
 * **Felelős:** Szervezet vezetője
 
-8. **Folyamatos felügyelet és frissítések**
+8. **[Folyamatos felügyelet és frissítések](https://github.com/Lensver65/NIS2-keretrendszer/blob/main/NIS2-Mermaid.md#folyamatos-fel%C3%BCgyelet-%C3%A9s-friss%C3%ADt%C3%A9sek)**
 
 * **Feladat:** A védelmi intézkedések folyamatos felügyelete és a szükséges frissítések elvégzése
 * **Határidő:** Folyamatosan, évente legalább egyszer

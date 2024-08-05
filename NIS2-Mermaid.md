@@ -1,5 +1,9 @@
 # NIS2 Keretrendszer alkalmazása, feladatok, határidők
 
+:::Note
+a
+:::
+
 1. **Kockázatkezelési keretrendszer alkalmazása**
 
 * **Feladat:** Felkészülés a keretrendszer alkalmazására

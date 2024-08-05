@@ -194,7 +194,7 @@ gantt
     Védelmi intézkedések azonosítása :VI1, 2024-08-05, 30d
     Védelmi intézkedések fokozatos bevezetése :VI2, after VI1, 60d
     Dokumentáció és eltérések kezelése :VI3, after VI2, 30d
-    Helyettesítő védelmi intézkedések alkalmazása :VI4, until isadded
+    Helyettesítő védelmi intézkedések alkalmazása :until isadded
     Biztonsági követelmények meghatározása :VI5, after VI3, 30
-    Rendszerbiztonsági terv frissítése :VI6, until isadded
+    Rendszerbiztonsági terv frissítése :until isadded
 ```

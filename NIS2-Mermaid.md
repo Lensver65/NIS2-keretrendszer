@@ -12,6 +12,54 @@ gantt
     Rendszer használatbavétele :2025-05-01, 2025-05-31
     Folyamatos felügyelet és frissítések :2025-06-01, 2025-12-31
 ```
+
+## Kockázatmenedzsment keretrendszer felállítása és dokumentálása
+
+A 7/2024. MK rendelet alapján a Kockázatmenedzsment keretrendszer felállítása és dokumentálása alatti al-feladatok és határidők a következők:
+
+1. **Szerepkörök, felelősségek, feladatok és hatáskörök meghatározása és dokumentálása**
+
+* **Feladat:** Meghatározni és dokumentálni az elektronikus információs rendszerek védelmével kapcsolatos szerepköröket, felelősségeket, feladatokat és hatásköröket.
+* **Határidő:** A keretrendszer felállításának kezdetétől számított 2 hét.
+
+2. **Kockázatmenedzsment stratégia kidolgozása és dokumentálása**
+
+* **Feladat:** Kidolgozni és dokumentálni a kockázatmenedzsment stratégiát, amely leírja, hogyan azonosítja, értékeli, kezeli és felügyeli a szervezet a biztonsági kockázatokat.
+* **Határidő:** Az első feladat befejezését követően 2 hét.
+
+3. **Biztonságfelügyeleti stratégia kidolgozása és dokumentálása**
+
+* **Feladat:** Kidolgozni és dokumentálni a biztonságfelügyeleti stratégiát, amely magában foglalja a védelmi intézkedésekhez kapcsolódó tevékenységek ellenőrzésének gyakoriságát, felügyeletének módszereit és eszközeit.
+* **Határidő:** A kockázatmenedzsment stratégia befejezését követően 2 hét.
+
+4. **Üzleti célok, funkciók és folyamatok meghatározása és dokumentálása**
+
+* **Feladat:** Meghatározni és dokumentálni az elektronikus információs rendszerek által támogatandó üzleti célokat, funkciókat és folyamatokat.
+* **Határidő:** A biztonságfelügyeleti stratégia befejezését követően 1 hónap.
+
+5. **Rendszer határainak meghatározása és dokumentálása**
+
+* **Feladat:** Meghatározni és dokumentálni a rendszer szervezeti és technológiai határait, valamint az érintett vagyonelemeket, és az adatköröket.
+* **Határidő:** Az üzleti célok és folyamatok dokumentálását követően 2 hét.
+
+6. **Felelős személyek kijelölése**
+
+* **Feladat:** Kijelölni a kockázatmenedzsment feladatokért felelős személyeket és dokumentálni a nevüket és felelősségi körüket.
+* **Határidő:** A rendszer határainak meghatározását követően 1 hét.
+
+```mermaid
+gantt
+    title Kockázatmenedzsment Keretrendszer Felállítása
+    dateFormat  YYYY-MM-DD
+    section Feladatok
+    Szerepkörök, felelősségek meghatározása :2024-08-05, 2024-08-19
+    Kockázatmenedzsment stratégia kidolgozása :2024-08-20, 2024-09-03
+    Biztonságfelügyeleti stratégia kidolgozása :2024-09-04, 2024-09-18
+    Üzleti célok és folyamatok dokumentálása :2024-09-19, 2024-10-19
+    Rendszer határainak meghatározása :2024-10-20, 2024-11-03
+    Felelős személyek kijelölése :2024-11-04, 2024-11-11
+```
+
 ## Biztonsági osztályba sorolás:
 A 7/2024. MK rendelet alapján a biztonsági osztályba sorolás alatti al-feladatok a következők:
 

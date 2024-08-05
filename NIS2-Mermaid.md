@@ -1,6 +1,6 @@
 ```mermaid
 gantt
-    title NIS2 Implementation Tasks
+    title NIS2 megfelelés Gantt diagram
     dateFormat  YYYY-MM-DD
     section Feladatok
     Kockázatkezelési keretrendszer alkalmazása :2024-08-01, 2024-10-31

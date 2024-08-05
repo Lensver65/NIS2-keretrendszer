@@ -2,7 +2,7 @@
 
 ```mermaid
 gantt
-    title NIS2 megfelelés feladatai Gantt diagram
+    title NIS2 HU
     dateFormat  YYYY-MM-DD
     section Kockázatmenedzsment keretrendszer felállítása és dokumentálása
     Kockázatkezelési keretrendszer alkalmazása: KK0, 2024.06.25, 90d

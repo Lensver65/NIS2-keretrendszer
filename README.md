@@ -10,4 +10,5 @@ Gantt diagram a NIS2 követelményeknek való megfelelés érdekében teendő l�
 1. [**7/2024. (VI. 24.) SZTFH rendelet a kiberbiztonsági audit végrehajtására jogosult auditorok nyilvántartásáról és az auditorral szemben támasztott követelményekről**](https://net.jogtar.hu/jogszabaly?docid=a2400007.stf)
 1. [**7/2024. (VI. 24.) MK rendelet a biztonsági osztályba sorolás követelményeiről, valamint az egyes biztonsági osztályok esetében alkalmazandó konkrét védelmi intézkedésekről**](https://net.jogtar.hu/jogszabaly?docid=a2400007.mkf)
 
+## Segédletek
 [**NKI útmutató a biztonsági osztályba sorolás követelményeiről, valamint az egyes biztonsági osztályok esetében alkalmazandó konkrét védelmi intézkedésekről szóló 7/2024. (VI. 24.) MK rendelet (a továbbiakban: MK rendelet) gyakorlati alkalmazásához.**](https://nki.gov.hu/intezet/kozlemenyek/elektronikus-informacios-rendszerek-es-szervezetek-kiberbiztonsagi-kovetelmenykatalogusanak-alkalmazasi-utmutatoja/)
